@@ -1,0 +1,9 @@
+ 1. Participant Registration
+
+2. Ability to reset password
+
+3. Unique ID Generation
+
+3. Participant portal to view his details, unique ID, address, organisation, etc
+
+4. Ability to modify field as I desire 
